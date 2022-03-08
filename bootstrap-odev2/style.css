@@ -1,0 +1,22 @@
+.search::placeholder{
+    background: url(search-solid.svg);
+    background-repeat: no-repeat;
+    text-align: center;
+    background-position: 30%;
+    font-size: 16px;
+}
+
+.storyimg{
+    width: 50px;
+    border-radius: 100%;
+    border: 2px solid rgb(238, 39, 82);
+}
+.postimg{
+    width: 40px;
+    border-radius: 100%;
+    border: 2px solid rgb(238, 39, 82);
+}
+.sol-alt-taraf{
+    text-decoration: none;
+    color: black;
+}
